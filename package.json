@@ -1,6 +1,6 @@
 {
   "name": "lapras-mcp-server",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "lapras.com \u516c\u5f0fMCP Server",
   "main": "src/index.ts",
   "scripts": {
